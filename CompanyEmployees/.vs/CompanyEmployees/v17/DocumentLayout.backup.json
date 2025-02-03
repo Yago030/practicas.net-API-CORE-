@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\cursomvcNet8\\ProyectoCrudNetMvc8\\CompanyEmployees\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5696C7E9-FCA5-431D-B2E6-B22679A2ECA2}|CompanyEmployees\\CompanyEmployees.csproj|e:\\cursomvcnet8\\proyectocrudnetmvc8\\companyemployees\\companyemployees\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5696C7E9-FCA5-431D-B2E6-B22679A2ECA2}|CompanyEmployees\\CompanyEmployees.csproj|solutionrelative:companyemployees\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\cursomvcNet8\\ProyectoCrudNetMvc8\\CompanyEmployees\\CompanyEmployees\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CompanyEmployees\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\cursomvcNet8\\ProyectoCrudNetMvc8\\CompanyEmployees\\CompanyEmployees\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CompanyEmployees\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T11:55:47.754Z",
+              "EditorCaption": ""
             }
           ]
         }
