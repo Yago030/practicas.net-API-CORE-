@@ -1,0 +1,30 @@
+﻿@page
+@model EncuestaRazorPages.Pages.ResultadosModel
+@{
+}
+<h1>Resultados Encuesta</h1>
+<div class="row">
+    <div class="col text-center">
+        <table class="table table-bordered">
+            <thead class="bg-primary text-white">
+                <tr>
+                    <th>Nombre</th>
+                    <th>¿Desea realizar guardias en oficina?</th>
+                    <th>Comentarios</th>
+                </tr>
+            </thead>
+            <tbody>
+                 @foreach(var encuesta in Model.Encuestas){
+                        <tr>
+                            <td>@encuesta.Nombre</td>
+                             <td>@(encuesta.Guardias ? "Sí" : "No")</td>
+
+                            <td>@encuesta.Comentarios</td>
+                        </tr>
+                }
+               
+            </tbody>
+        </table>
+        <a class="btn btn-primary" asp-page="Index">Regresar</a>
+    </div>
+</div>

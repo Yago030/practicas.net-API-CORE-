@@ -1,0 +1,8 @@
+﻿namespace MinimalAPISeeds.DTOs
+{
+    public class SeasonDTO
+    {
+        public int Id { get; set; } 
+        public string Name { get; set; } = null!;
+    }
+}

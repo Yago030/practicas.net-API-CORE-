@@ -1,0 +1,75 @@
+﻿@model IEnumerable<CrudNet8MVC.Models.Contacto>
+
+@{
+    ViewData["Title"] = "Lista de  Contactos";
+}
+
+<h1 class="text-center"> Contacto cn .Net 8 (.NET Core MVC )  </h1>
+<div class="row">
+    <div class="offset-9 col-3 mb-3"> 
+        <a asp-action="Crear" asp-controller="Inicio" class="btn btn-secondary d-block mx-auto btn-lg">
+            <i class="fa fa-plus"  >  Nuevo usuario </i>
+            
+        </a> 
+    </div>
+</div>
+
+<div class="row">
+    <div class="offset-12 ">
+        <div class="card border">
+            <div class="card-header bg-dark">
+                <h3 class="text-white"> <strong>Lista de Usuarios</strong></h3>
+            </div>
+
+            <div class="card-body">
+                <div class="table-responsive">
+                    @if(Model.Count() > 0){
+                        <table class="table  table-bordered" id="tblUsuarios" width="100%" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <th>@Html.DisplayNameFor( contacto => contacto.Id)</th>
+                                    <th>@Html.DisplayNameFor(contacto => contacto.Name)</th>
+                                    <th>@Html.DisplayNameFor(contacto => contacto.Telefono)</th>
+                                    <th>@Html.DisplayNameFor(contacto => contacto.Celular)</th>
+                                    <th>@Html.DisplayNameFor(contacto => contacto.Email)</th>
+                                    <th>@Html.DisplayNameFor(contacto => contacto.FechaCreacion)</th>
+                                    <th>Acciones</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach(var contacto in Model){
+                                    <tr>
+                                        <td>@Html.DisplayFor(contactos => contacto.Id)</td>
+                                        <td>@Html.DisplayFor(contactos => contacto.Name)</td>
+                                        <td>@Html.DisplayFor(contactos => contacto.Telefono)</td>
+                                        <td>@Html.DisplayFor(contactos => contacto.Celular)</td>
+                                        <td>@Html.DisplayFor(contactos => contacto.Email)</td>
+                                        <td>@String.Format("{0:yyyy-MM-dd HH:mm:ss}", contacto.FechaCreacion)</td>
+                                        <td>
+                                            <a class="btn btn-warning" asp-action="Editar" asp-route-id="@contacto.Id ">
+                                                <i class="fa-solid fa-file-pen"> Editar </i>
+                                            </a>
+
+                                            <a class="btn btn-secondary" asp-action="Detalle" asp-route-id="@contacto.Id ">
+                                                <i class="fa-solid fa-circle-info"> Detalles</i>
+                                            </a>
+
+                                            <a class="btn btn-danger" asp-action="Borrar" asp-route-id="@contacto.Id ">
+                                                <i class="fa-solid fa-trash-can"> Borrar</i>
+                                            </a>
+                                        </td>
+
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    }else{
+                        <p>No hay registros</p>
+                    }
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>

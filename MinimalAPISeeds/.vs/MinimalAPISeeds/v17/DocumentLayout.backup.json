@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\cursomvcNet8\\ProyectoCrudNetMvc8\\MinimalAPISeeds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C47C2E1F-B49C-4FA4-AAAB-2B20F9E9BB61}|MinimalAPISeeds\\MinimalAPISeeds.csproj|e:\\cursomvcnet8\\proyectocrudnetmvc8\\minimalapiseeds\\minimalapiseeds\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C47C2E1F-B49C-4FA4-AAAB-2B20F9E9BB61}|MinimalAPISeeds\\MinimalAPISeeds.csproj|solutionrelative:minimalapiseeds\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47C2E1F-B49C-4FA4-AAAB-2B20F9E9BB61}|MinimalAPISeeds\\MinimalAPISeeds.csproj|e:\\cursomvcnet8\\proyectocrudnetmvc8\\minimalapiseeds\\minimalapiseeds\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C47C2E1F-B49C-4FA4-AAAB-2B20F9E9BB61}|MinimalAPISeeds\\MinimalAPISeeds.csproj|solutionrelative:minimalapiseeds\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47C2E1F-B49C-4FA4-AAAB-2B20F9E9BB61}|MinimalAPISeeds\\MinimalAPISeeds.csproj|e:\\cursomvcnet8\\proyectocrudnetmvc8\\minimalapiseeds\\minimalapiseeds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47C2E1F-B49C-4FA4-AAAB-2B20F9E9BB61}|MinimalAPISeeds\\MinimalAPISeeds.csproj|solutionrelative:minimalapiseeds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47C2E1F-B49C-4FA4-AAAB-2B20F9E9BB61}|MinimalAPISeeds\\MinimalAPISeeds.csproj|e:\\cursomvcnet8\\proyectocrudnetmvc8\\minimalapiseeds\\minimalapiseeds\\inicializador\\dbinicializador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47C2E1F-B49C-4FA4-AAAB-2B20F9E9BB61}|MinimalAPISeeds\\MinimalAPISeeds.csproj|solutionrelative:minimalapiseeds\\inicializador\\dbinicializador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\cursomvcNet8\\ProyectoCrudNetMvc8\\MinimalAPISeeds\\MinimalAPISeeds\\appsettings.json",
+              "RelativeDocumentMoniker": "MinimalAPISeeds\\appsettings.json",
+              "ToolTip": "E:\\cursomvcNet8\\ProyectoCrudNetMvc8\\MinimalAPISeeds\\MinimalAPISeeds\\appsettings.json",
+              "RelativeToolTip": "MinimalAPISeeds\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T04:28:41.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\cursomvcNet8\\ProyectoCrudNetMvc8\\MinimalAPISeeds\\MinimalAPISeeds\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MinimalAPISeeds\\appsettings.Development.json",
+              "ToolTip": "E:\\cursomvcNet8\\ProyectoCrudNetMvc8\\MinimalAPISeeds\\MinimalAPISeeds\\appsettings.Development.json",
+              "RelativeToolTip": "MinimalAPISeeds\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T04:28:40.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\cursomvcNet8\\ProyectoCrudNetMvc8\\MinimalAPISeeds\\MinimalAPISeeds\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalAPISeeds\\Program.cs",
+              "ToolTip": "E:\\cursomvcNet8\\ProyectoCrudNetMvc8\\MinimalAPISeeds\\MinimalAPISeeds\\Program.cs",
+              "RelativeToolTip": "MinimalAPISeeds\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T03:21:43.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbInicializador.cs",
+              "DocumentMoniker": "E:\\cursomvcNet8\\ProyectoCrudNetMvc8\\MinimalAPISeeds\\MinimalAPISeeds\\Inicializador\\DbInicializador.cs",
+              "RelativeDocumentMoniker": "MinimalAPISeeds\\Inicializador\\DbInicializador.cs",
+              "ToolTip": "E:\\cursomvcNet8\\ProyectoCrudNetMvc8\\MinimalAPISeeds\\MinimalAPISeeds\\Inicializador\\DbInicializador.cs",
+              "RelativeToolTip": "MinimalAPISeeds\\Inicializador\\DbInicializador.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvycAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T03:08:29.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

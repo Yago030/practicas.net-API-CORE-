@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\cursomvcNet8\\ProyectoCrudNetMvc8\\BlogCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41A1FF1B-A90C-41EC-BE76-DAF149998E85}|BlogCore\\BlogCore.csproj|e:\\cursomvcnet8\\proyectocrudnetmvc8\\blogcore\\blogcore\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{41A1FF1B-A90C-41EC-BE76-DAF149998E85}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "E:\\cursomvcNet8\\ProyectoCrudNetMvc8\\BlogCore\\BlogCore\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BlogCore\\ScaffoldingReadMe.txt",
+              "ToolTip": "E:\\cursomvcNet8\\ProyectoCrudNetMvc8\\BlogCore\\BlogCore\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BlogCore\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-29T19:59:36.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
