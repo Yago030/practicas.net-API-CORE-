@@ -1,0 +1,12 @@
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\Contracts\bin\Debug\net8.0\Contracts.deps.json
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\Contracts\bin\Debug\net8.0\Contracts.dll
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\Contracts\bin\Debug\net8.0\Contracts.pdb
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\Contracts\obj\Debug\net8.0\Contracts.sourcelink.json
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\Contracts\obj\Debug\net8.0\Contracts.dll
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\Contracts\obj\Debug\net8.0\Contracts.pdb
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\Contracts\obj\Debug\net8.0\ref\Contracts.dll

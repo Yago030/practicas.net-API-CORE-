@@ -1,0 +1,16 @@
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\LoggerService\bin\Debug\net8.0\LoggerService.deps.json
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\LoggerService\bin\Debug\net8.0\LoggerService.dll
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\LoggerService\bin\Debug\net8.0\LoggerService.pdb
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\LoggerService\bin\Debug\net8.0\Contracts.dll
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\LoggerService\bin\Debug\net8.0\Contracts.pdb
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\LoggerService\obj\Debug\net8.0\LoggerService.csproj.AssemblyReference.cache
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\LoggerService\obj\Debug\net8.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfoInputs.cache
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\LoggerService\obj\Debug\net8.0\LoggerService.AssemblyInfo.cs
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\LoggerService\obj\Debug\net8.0\LoggerService.csproj.CoreCompileInputs.cache
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\LoggerService\obj\Debug\net8.0\LoggerService.sourcelink.json
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\LoggerService\obj\Debug\net8.0\LoggerSe.E7AEA5A8.Up2Date
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\LoggerService\obj\Debug\net8.0\LoggerService.dll
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\LoggerService\obj\Debug\net8.0\refint\LoggerService.dll
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\LoggerService\obj\Debug\net8.0\LoggerService.pdb
+E:\cursomvcNet8\ProyectoCrudNetMvc8\Contracts\LoggerService\obj\Debug\net8.0\ref\LoggerService.dll
